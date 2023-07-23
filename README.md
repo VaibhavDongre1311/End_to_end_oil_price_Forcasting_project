@@ -30,7 +30,7 @@ Name | 💌Email Adress |
 <table>
 <tr>
 <td>
-     <img src="https://avatars.githubusercontent.com/u/99672298?v=4" width="180"/>
+     <img src="https://avatars.githubusercontent.com/u/128957996?v=4" width="180"/>
      
      vaibhavdongre13@gmail.com
 

@@ -3,7 +3,7 @@
 ## Crude oil Price forecasting  
 ### **`Business Objective:`** Oil price may fluctuate time to time based on more factors technical economical and natural as well as political so the forecasting may not be influenced by these some unexpected scenarios like Geopolitical issues (e.g.: War and Oil price Cap)
 
-### **`Data Set Details:`**Oil is a product that goes completely in a different direction for a single market event as the oil prices are rarely based on real-time data, instead, it is driven by externalities making our attempt to forecast it even more challenging .As the economy will be highly affected by oil prices our model will help to understand the pattern in prices to help the customers and businesses to make smart decisions!
+### **`Data Set Details:`** Oil is a product that goes completely in a different direction for a single market event as the oil prices are rarely based on real-time data, instead, it is driven by externalities making our attempt to forecast it even more challenging .As the economy will be highly affected by oil prices our model will help to understand the pattern in prices to help the customers and businesses to make smart decisions!
 
 
 ### **Introduction**
